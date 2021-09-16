@@ -1,0 +1,10 @@
+{
+    "name": "Chrome Extension Proto",
+    "description" : "Chrome Extension Proto",
+    "version": "1.0",
+    "manifest_version": 2,
+    "browser_action": {
+     "default_icon": "./icons/icon128.png",
+     "default_popup": "./src/extension/popup/popup.html"
+    }
+}
